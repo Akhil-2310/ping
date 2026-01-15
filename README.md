@@ -121,22 +121,20 @@ We chose **Mantle Network** because it aligns with Whisp’s mission —
 
 ## Contracts Deployed and Verified on Mantle Sepolia
 
-[Semaphore](https://explorer.sepolia.mantle.xyz/address/0x9d4454B023096f34B160D6B654540c56A1F81688)
+[Semaphore](https://sepolia.mantlescan.xyz/address/0x501F1ABBFae1f7382cfA54871685eB1E8A845fb6)
 
-[SemaphoreVerifier](https://explorer.sepolia.mantle.xyz/address/0x7a2088a1bFc9d81c55368AE168C2C02570cB814F)
+[SemaphoreVerifier](https://sepolia.mantlescan.xyz/address/0x4309Eb90A37cfD0ecE450305B24a2DE68b73f312)
 
-[PoseidonT3](https://explorer.sepolia.mantle.xyz/address/0x8f86403A4DE0BB5791fa46B8e795C547942fE4Cf)
+[PoseidonT3](https://sepolia.mantlescan.xyz/address/0x3822F3A99940D9A0401c093D734a149Cf8b109a9)
 
-[Ping](https://explorer.sepolia.mantle.xyz/address/0x6c0f0B87cD3178B4b21fE77775e628daB94eD15D)
+[Ping](https://sepolia.mantlescan.xyz/address/0x6c0f0B87cD3178B4b21fE77775e628daB94eD15D)
 
-[Transactions on Mantle Sepolia](https://explorer.sepolia.mantle.xyz/address/0x6c0f0B87cD3178B4b21fE77775e628daB94eD15D)
+[Transactions on Mantle Sepolia](https://sepolia.mantlescan.xyz/address/0x6c0f0B87cD3178B4b21fE77775e628daB94eD15D)
 
 ## 👥 Team
 
 **Built by:**
 
-- 🧑‍💻 **Akhil** — Full Stack + ZK Dev  
-- 🧑‍💻 **Kutman** — Frontend Dev  
+- 🧑‍💻 **Akhil** — Full Stack + ZK Dev   
 
 
-Wallet Address - 0x6cc717de21A631e02A425d7fe6138706Bc784197
