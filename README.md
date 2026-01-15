@@ -107,9 +107,9 @@ It allows anyone to post a **signal** (vote, opinion, alert) verified by math �
 
 ---
 
-## 🛡️ Why Status Network?
+## 🛡️ Why Mantle Network?
 
-We chose **Status Network** because it aligns with Whisp’s mission —  
+We chose **Mantle Network** because it aligns with Whisp’s mission —  
 > “Privacy, freedom, and trustless communication.”
 
 - ⚡ Gas-efficient zk verification  
