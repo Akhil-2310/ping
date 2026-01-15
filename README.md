@@ -1,7 +1,7 @@
 # 🕵️‍♀️ Ping
 
 > **Ping lets you speak without being seen.**  
-> A decentralized signalling platform where users can broadcast **verifiable messages anonymously** using **zero-knowledge proofs** on the **Status Network**.  
+> A decentralized signalling platform where users can broadcast **verifiable messages anonymously** using **zero-knowledge proofs** on **Mantle Sepolia**.  
 
 ---
 
@@ -15,7 +15,7 @@
 
 Ping is a **privacy-first social signalling protocol** where verified individuals can send **trustworthy signals like feedbacks/votes without revealing their identity**.  
 
-It uses **Semaphore** for anonymous group proofs, **Status Network** for censorship-resistant verification, and **Buidl Guidl** tooling for seamless development and smart contract deployment.
+It uses **Semaphore** for anonymous group proofs, **Mantle Sepolia** for censorship-resistant verification, and **Buidl Guidl** tooling for seamless development and smart contract deployment.
 
 > 💡 Think “verified whispers” — truthful, anonymous, and onchain.
 
@@ -39,7 +39,7 @@ Ping enables **verifiable anonymity** through zero-knowledge proofs.
 It allows anyone to post a **signal** (vote, opinion, alert) verified by math — not by trust.
 
 - 🧠 **Zero-Knowledge Proofs** — users prove they’re group members without revealing their identity  
-- 🔗 **Onchain Verification** — proofs verified by smart contracts on **Status Network**  
+- 🔗 **Onchain Verification** — proofs verified by smart contracts on **Mantle Sepolia**  
 - 🔒 **Anonymous but Accountable** — one signal per identity, no duplicates or Sybil attacks  
 
 ---
@@ -61,7 +61,7 @@ It allows anyone to post a **signal** (vote, opinion, alert) verified by math �
 
 4. **Verify & Broadcast**
    - Smart contract verifies the proof.  
-   - Emits an event on Status Network → Ping frontend fetches it → signal displayed anonymously.
+   - Emits an event on Mantle Sepolia → Ping frontend fetches it → signal displayed anonymously.
 
 ---
 
@@ -72,9 +72,9 @@ It allows anyone to post a **signal** (vote, opinion, alert) verified by math �
 |-------|-------------|
 | ZK Layer | Semaphore Protocol |
 | Smart Contract | Solidity + Foundry + Buidl Guidl Stack |
-| Blockchain | Status Network |
+| Blockchain | Mantle Sepolia |
 | Frontend | Next.js + TailwindCSS + Viem |
-| Deployment | Vercel (Frontend) + Status Explorer (Contracts) |
+| Deployment | Vercel (Frontend) + Mantle Explorer (Contracts) |
 
 ---
 
@@ -84,7 +84,7 @@ It allows anyone to post a **signal** (vote, opinion, alert) verified by math �
 |-----------|--------------------|
 | 🧱 Smart Contracts | Solidity, Hardhat |
 | 🔐 Zero-Knowledge | Semaphore, SnarkJS |
-| 🌐 Blockchain | Status Network |
+| 🌐 Blockchain | Mantle Sepolia |
 | 💻 Frontend | Next.js, TailwindCSS |
 | 🧰 Tooling | Buidl Guidl, Viem, Ethers.js |
 | ☁️ Hosting | Vercel |
@@ -119,17 +119,17 @@ We chose **Status Network** because it aligns with Whisp’s mission —
 
 ---
 
-## Contracts Deployed and Verified on Status Network
+## Contracts Deployed and Verified on Mantle Sepolia
 
-[Semaphore](https://sepoliascan.status.network/address/0x9d4454B023096f34B160D6B654540c56A1F81688?tab=contract)
+[Semaphore](https://explorer.sepolia.mantle.xyz/address/0x9d4454B023096f34B160D6B654540c56A1F81688)
 
-[SemaphoreVerifier](https://sepoliascan.status.network/address/0x7a2088a1bFc9d81c55368AE168C2C02570cB814F?tab=contract)
+[SemaphoreVerifier](https://explorer.sepolia.mantle.xyz/address/0x7a2088a1bFc9d81c55368AE168C2C02570cB814F)
 
-[PoseidonT3](https://sepoliascan.status.network/address/0x8f86403A4DE0BB5791fa46B8e795C547942fE4Cf?tab=contract)
+[PoseidonT3](https://explorer.sepolia.mantle.xyz/address/0x8f86403A4DE0BB5791fa46B8e795C547942fE4Cf)
 
-[Ping](https://sepoliascan.status.network/address/0x4309Eb90A37cfD0ecE450305B24a2DE68b73f312?tab=contract)
+[Ping](https://explorer.sepolia.mantle.xyz/address/0x6c0f0B87cD3178B4b21fE77775e628daB94eD15D)
 
-[Gasless Transactions on Status Network](https://sepoliascan.status.network/address/0x4309Eb90A37cfD0ecE450305B24a2DE68b73f312?tab=txs)
+[Transactions on Mantle Sepolia](https://explorer.sepolia.mantle.xyz/address/0x6c0f0B87cD3178B4b21fE77775e628daB94eD15D)
 
 ## 👥 Team
 
