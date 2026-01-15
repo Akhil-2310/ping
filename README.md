@@ -109,7 +109,7 @@ It allows anyone to post a **signal** (vote, opinion, alert) verified by math �
 
 ## 🛡️ Why Mantle Network?
 
-We chose **Mantle Network** because it aligns with Whisp’s mission —  
+We chose **Mantle Network** because it aligns with Ping’s mission —  
 > “Privacy, freedom, and trustless communication.”
 
 - ⚡ Gas-efficient zk verification  
