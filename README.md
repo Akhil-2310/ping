@@ -5,9 +5,9 @@
 
 ---
 
-## [Live Link](https://whisp-mu.vercel.app/)
+## [Live Link](https://ping-nextjs.vercel.app/)
 
-## [Video Demo](https://www.loom.com/share/5d32170117cd416489be9b735a36b281)
+## [Video Demo](https://www.loom.com/share/e4362aee446941ad94871244b1c7d5d1)
 
 ## [Presentation](https://www.canva.com/design/DAG21Lsrmjs/CVtZxm08W8F0WT5qCVbMng/edit)
 
