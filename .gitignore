@@ -50,6 +50,7 @@ deployments/
 **/deployments/
 
 # IDE
+.cursor/
 .vscode/
 .idea/
 *.swp
