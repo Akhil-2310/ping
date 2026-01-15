@@ -3,7 +3,7 @@ pragma solidity ^0.8.24;
 
 import { ISemaphore } from "@semaphore-protocol/contracts/interfaces/ISemaphore.sol";
 
-contract Whisp {
+contract Ping {
     ISemaphore public immutable semaphore;
 
     struct GroupMeta {

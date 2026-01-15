@@ -24,19 +24,15 @@ const etherscanApiKey = process.env.ETHERSCAN_V2_API_KEY || "E82BWECNAFA1U694RKE
 
 const config: HardhatUserConfig = {
   solidity: {
-    compilers: [
-      {
-        version: "0.8.24",
-        settings: {
-          evmVersion: "paris",
-          optimizer: {
-            enabled: true,
-            // https://docs.soliditylang.org/en/latest/using-the-compiler.html#optimizer-options
-            runs: 200,
-          },
-        },
+    version: "0.8.28",
+    settings: {
+      evmVersion: "paris", // Keeping evmVersion as it was in the original config
+      optimizer: {
+        enabled: true,
+        // https://docs.soliditylang.org/en/latest/using-the-compiler.html#optimizer-options
+        runs: 200,
       },
-    ],
+    },
   },
   defaultNetwork: "localhost",
   namedAccounts: {
@@ -142,8 +138,8 @@ const config: HardhatUserConfig = {
         network: "mantleSepolia",
         chainId: 5003,
         urls: {
-          apiURL: "https://explorer.sepolia.mantle.xyz/api",
-          browserURL: "https://explorer.sepolia.mantle.xyz",
+          apiURL: "https://api-sepolia.mantlescan.xyz/api",
+          browserURL: "https://sepolia.mantlescan.xyz",
         },
       },
     ],

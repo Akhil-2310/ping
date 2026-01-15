@@ -135,7 +135,4 @@ We chose **Mantle Network** because it aligns with Whisp’s mission —
 
 **Built by:**
 
-- 🧑‍💻 **Akhil** — Full Stack + ZK Dev  
-
-
-
+- 🧑‍💻 **Akhil** — Full Stack + ZK Dev
